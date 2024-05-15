@@ -1,3 +1,4 @@
+# Read me
 This GitHub repository contains all R-code for the scientific internship of the MSc Medicine (Leiden University), performed by Lana Broer. The project concluded in [June, 2024], and was supervised by Matteo Quartagno (University College London). 
 
 The repository contains:
@@ -7,5 +8,5 @@ The repository contains:
 * NI_testing: tests non-inferiority;
 * PH_testing: test the proportional hazards assumption for each of the 65 reconstructed datasets.
 
-## references
+### references
 [1] Weir, IR., Trinquart, L. Design of non-inferiority randomized trials using the difference in restricted mean survival times. Clin Trials 2018; 15: 499-508. https://www.ncbi.nlm.nih.gov/pubmed/30074407
