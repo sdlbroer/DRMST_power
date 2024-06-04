@@ -1,5 +1,5 @@
 # Read me
-This GitHub repository contains all R-code for the scientific internship of the MSc Medicine (Leiden University), performed by Lana Broer. The project concluded in [June, 2024], and was supervised by Matteo Quartagno (University College London). 
+This GitHub repository contains all R-code for the scientific internship of the MSc Medicine (Leiden University), performed by Lana Broer. The project concluded in [June, 2024], and was supervised by Dr. Matteo Quartagno (University College London). 
 
 The repository contains:
 * Folder 1: data
