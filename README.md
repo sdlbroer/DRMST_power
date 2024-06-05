@@ -10,8 +10,10 @@ The repository contains:
   * margin_conversion_exponential: converts the margin of the original summary measure to the other measures assuming the dsitribution of the control arm to be exponential;
   * margin_conversion_flexsurv: converts the margin of the original summary measure to the other measures estimating the distribution of the control arm with flexible parametric methods;
   * NI_testing: tests the non-inferiority hypothesis;
-  * check_PH_assumption: test the proportional hazards assumption for each of the 65 reconstructed datasets:
   * check_disagreeing_NI: looks deeper into the trials for which the HR and DRMST (under PH) did not agree;
+  * subgroup_analysis_PH: subgroup analysis on trials without evidence of non-PH;
+  * subgroup_analysis_OriginalSumMeasure: subgroup analysis split by original summary measure;
+  * subgroup_analysis_EventRate: subgroup analysis split by event rate;
   * data_visualisation: data visualisations of model outcomes.
 
 ### References
