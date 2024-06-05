@@ -5,7 +5,7 @@ The repository contains:
 * Folder 1: data
   * reconstructed: txt file with survival information of the 65 reconstructed trial datasets - 35 of these trials (ID's 36 and up) were digitized by Weir and Trinquart [1];
   * NI_outcomes: Rdata file containing the outcomes of the NI tests for all summary measures for each trial.
-* Folder 2 (in the order in which they should be used): code
+* Folder 2: code
   * preprocessing_data: preprocesses the data for analysis;
   * margin_conversion_exponential: converts the margin of the original summary measure to the other measures assuming the dsitribution of the control arm to be exponential;
   * margin_conversion_flexsurv: converts the margin of the original summary measure to the other measures estimating the distribution of the control arm with flexible parametric methods;
