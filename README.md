@@ -13,7 +13,7 @@ The repository contains:
   * check_disagreeing_NI: looks deeper into the trials for which the HR and DRMST (under PH) did not agree;
   * subgroup_analysis_PH: subgroup analysis on trials without evidence of non-PH;
   * subgroup_analysis_OriginalSumMeasure: subgroup analysis split by original summary measure;
-  * subgroup_analysis_EventRate: subgroup analysis split by event rate;
+  * subgroup_analysis_EventRisk: subgroup analysis split by event rate;
   * data_visualisation: data visualisations of model outcomes.
 
 ### References
