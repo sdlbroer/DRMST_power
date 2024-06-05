@@ -2,8 +2,8 @@
 rm(list = ls())
 
 # load data
-source('C:/Users/rmjwlsd/OneDrive - University College London/analyses/read_data_v6.R')
-load('C:/Users/rmjwlsd/OneDrive - University College London/analyses/NI_outcomes_240530.RData')
+source('C:/Users/rmjwlsd/OneDrive - University College London/analyses/preprocessing_data.R')
+load('C:/Users/rmjwlsd/OneDrive - University College London/analyses/NI_outcomes.RData')
 
 # load necessary libraries
 library(flexsurv) # fit flexible parametric surival model
