@@ -2,7 +2,7 @@
 rm(list = ls())
 
 # load data
-load('C:/Users/rmjwlsd/OneDrive - University College London/analyses/NI_outcomes_240530.RData')
+load('C:/Users/rmjwlsd/OneDrive - University College London/analyses/NI_outcomes.RData')
 
 # load necessary libraries
 library(dplyr) # data wrangling
